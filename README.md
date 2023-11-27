@@ -4,15 +4,16 @@
 > [!NOTE]
 > Azalea is still in development and some features might not work properly
 
+
 ## ⭐ Current features:
-- Admin UI
-- Tag commands
-- Custom UIs
-- Bind items to commands
-- Player reports
-- Moderation
-- Server reviews
-- Too lazy to finish this list lmfao
+- :hammer: Admin UI
+- :label: Tag commands
+- :computer: Custom UIs
+- :pick: Bind items to commands
+- 🚩 Player reports
+- :police_officer: Moderation
+- :star: Server reviews
+- :sleeping_bed: Too lazy to finish this list lmfao
 
 > **Made by TRASH#0093 on Discord (or TheLegendaryTrashcan#8485 on Revolt) 🗑️**
 
